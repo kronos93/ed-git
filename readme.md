@@ -20,3 +20,4 @@
   git config --global core.editor vim
   git config --list
 ```
+Esta linea fue creado en la rama master	

@@ -18,3 +18,6 @@
 ```
 
 editar
+
+Nos muestra el histotia en una sola linea del commit 
+git commit --oneline

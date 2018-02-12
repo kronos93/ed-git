@@ -290,6 +290,12 @@ textarea {
     }
 }
 
+
 p {
     line-height: 1.5em;
+
+}
+a {
+    color:red;
+
 }

@@ -289,3 +289,7 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+p {
+    line-height: 1.5em;
+}

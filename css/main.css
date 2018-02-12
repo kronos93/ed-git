@@ -289,3 +289,6 @@ textarea {
         page-break-after: avoid;
     }
 }
+a {
+    color:red;
+}
